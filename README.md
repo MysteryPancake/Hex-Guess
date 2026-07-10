@@ -4,7 +4,7 @@ Hex color guessing game. Also check out [dialed.gg](https://dialed.gg)!
 
 ## [Original Edition](https://mysterypancake.github.io/Hex-Guess/original)
 
-Made by myself before AI existed.
+Made by myself a few years ago before AI existed.
 
 The same features are in "Practice Mode" in the AI slop edition.
 
